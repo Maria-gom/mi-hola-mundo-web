@@ -8,10 +8,11 @@ body {
 
 h1 {
   color: #ffffff;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
   font-size: 48px;
 }
 .virgen{
-  color: #c9a227;
+  color: #f4c430;
   font-size: 45px;
   font-style: italic;
   margin-top: 10px;
