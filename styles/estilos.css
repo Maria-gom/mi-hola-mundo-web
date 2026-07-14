@@ -1,16 +1,17 @@
 body {
-  background-color: #0cbeeb;
-  color: white;
+  background-color: #ffffff;
+  color: #1e3a5f;
   text-align: center;
   font-family: Arial, sans-serif;
   padding-top: 100px;
 }
 
 h1 {
+  color: #163a5f;
   font-size: 48px;
 }
 .virgen{
-  color: #029ef5;
+  color: #c9a227;
   font-size: 40px;
   font-style: italic;
   margin-top: 10px;
